@@ -1,0 +1,2 @@
+# the first value inside the background or background-image prop. will be the for most Img. And the last value OR url inside it, will be the Rare most Img, means it will display at bottom of upper images.
+# We can Overlap Images with multiple background image property.
